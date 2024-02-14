@@ -1,2 +1,2 @@
 # Binary Search Tree
-This is an implementation of a binary search tree in Java. This program is able to insert, remove, and search using recurvise, iterative, and object-oriented principles.
+This is a Java implementation of a binary search tree. It encompasses recursive, iterative, and object-oriented principles to handle operations such as insertion, removal, and searching data in an efficient manner.
